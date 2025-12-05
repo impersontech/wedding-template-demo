@@ -11,7 +11,7 @@ Live demo for wedding website template sold on Gumroad.
 - Romantic pink/gold theme
 
 ## Live Demo:
-wedding-template-demo/index.html
+https://wedding-template-demo/index.html
 
 ## Purchase:
 Get full template on Gumroad: [Your Gumroad Link]
