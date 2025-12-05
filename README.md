@@ -14,4 +14,4 @@ Live demo for wedding website template sold on Gumroad.
 https://impersontech.github.io/wedding-template-demo
 
 ## Purchase:
-Get full template on Gumroad: [Your Gumroad Link]
+Get full template on Gumroad:[https://khalid854.gumroad.com/l/gscrl?_gl=1*fidefy*_ga*MTY5MTI5MDM4My4xNzY0Nzk0MDk5*_ga_6LJN6D94N6*czE3NjQ5MjQzNDgkbzMkZzAkdDE3NjQ5MjQzNDgkajYwJGwwJGgw]
